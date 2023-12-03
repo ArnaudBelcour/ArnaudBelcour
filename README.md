@@ -2,7 +2,7 @@ Hello!
 
 On this GitHub account, you will find the work I do during several contracts focused on Bioinformatics (either directly on this profile or on the [AuReMe repository](https://github.com/AuReMe), owned bythe Dyliss of Inria).
 
-I try to answer the issues but my available time for this is variaible and I can be slow to answer.
+I try to answer the issues but my available time for this is variable and I can be slow to answer.
 
 ## Modelling metabolism
 
