@@ -11,6 +11,8 @@ I participate in the development of several methods and tools to help the modell
 - [mpwt](https://github.com/AuReMe/mpwt): a little multiprocessing wrapper for Pathway Tools to help reconstructing draft metabolic networks at a large-scale.
 - [emapper2gbk](https://github.com/AuReMe/emapper2gbk): a conversion tool to create GenBank file from eggnog-mapper results. 
 - [metage2metabo](https://github.com/AuReMe/metage2metabo): a pipeline to estimate the producible metabolites by a microbial community and to estimate the synthetic minimal communitiesable to produce specific metabolites. It relies on [menetools](https://github.com/cfrioux/MeneTools), [miscoto](https://github.com/cfrioux/miscoto), mpwt and [padmet](https://github.com/AuReMe/padmet).
+- [esmecata](https://github.com/AuReMe/esmecata): a pipeline to estimate functions of taxonomic affiliations using comparative genomics (with MMseq2), UniProt database and eggnog-mapper.
+- [kegg2bipartitegraph](https://github.com/ArnaudBelcour/kegg2bipartitegraph): a little package to create metabolic bipartite graphs from different inputs using KEGG database.
 
 ## Singularity recipes
 
