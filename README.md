@@ -1,12 +1,12 @@
 Hello!
 
-On this GitHub account, you will find the work I do during several contracts focused on Bioinformatics (either directly on this profile or on the [AuReMe repository](https://github.com/AuReMe), owned bythe Dyliss of Inria).
+On this GitHub account, you will find the work I do during several contracts focused on Bioinformatics (either directly on this profile or on the [AuReMe repository](https://github.com/AuReMe), owned by the Dyliss of Inria).
 
 I try to answer the issues but my available time for this is variable and I can be slow to answer.
 
 ## Modelling metabolism
 
-I participate in the development of several methods and tools to help the modelling of metabolic networks of organism:
+I participate in the development of several methods and tools to reconstruct and study metabolic networks:
 
 - [mpwt](https://github.com/AuReMe/mpwt): a little multiprocessing wrapper for Pathway Tools to help reconstructing draft metabolic networks at a large-scale.
 - [emapper2gbk](https://github.com/AuReMe/emapper2gbk): a conversion tool to create GenBank file from eggnog-mapper results. 
