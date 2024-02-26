@@ -9,7 +9,7 @@ My work focuses on modelling the metabolism at different levels (specific metabo
 I participate in the development of several methods and tools to reconstruct and study metabolic networks:
 
 - [mpwt](https://github.com/AuReMe/mpwt): a little multiprocessing wrapper for Pathway Tools to help reconstructing draft metabolic networks at a large-scale.
-- [metage2metabo](https://github.com/AuReMe/metage2metabo): a method to estimate the producible metabolites by a microbial community and to estimate the synthetic minimal communitiesable to produce specific metabolites. It relies on [menetools](https://github.com/cfrioux/MeneTools), [miscoto](https://github.com/cfrioux/miscoto), [mpwt](https://github.com/AuReMe/mpwt) and [padmet](https://github.com/AuReMe/padmet).
+- [metage2metabo](https://github.com/AuReMe/metage2metabo): a method to compute the producible metabolites by a microbial community and predict the synthetic minimal communities able to produce these metabolites. It relies on [menetools](https://github.com/cfrioux/MeneTools), [miscoto](https://github.com/cfrioux/miscoto), [mpwt](https://github.com/AuReMe/mpwt) and [padmet](https://github.com/AuReMe/padmet).
 - [esmecata](https://github.com/AuReMe/esmecata): a method to estimate functions of taxonomic affiliations using comparative genomics of proteomes from UniProt database.
 - [pathmodel](https://github.com/pathmodel/pathmodel): a prototype implementing the Metabolic Pathway Drift to predict alternative metabolic pathways.
 - [aucome](https://github.com/AuReMe/aucome): a method to homogenise the reconstruction of metabolic networks from genomes of public databases.
