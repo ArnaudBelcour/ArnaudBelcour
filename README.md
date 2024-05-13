@@ -1,5 +1,7 @@
 Hello!
 
+I am a post-doc in the MICROCOSME team of [Inria](https://team.inria.fr/microcosme/) Grenoble.
+
 ## Research interests
 
 My work focuses on modelling the metabolism at different levels (specific metabolic pathways, single organism or environmental communities). My reseach combines knowledge representation and reasoning, DNA sequence analyses and systems biology. The methods I have particiapted in can be found in this GitHub account or in the [AuReMe repository](https://github.com/AuReMe) (owned by the Dyliss team of Inria).
