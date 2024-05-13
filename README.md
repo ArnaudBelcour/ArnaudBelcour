@@ -1,6 +1,6 @@
 Hello!
 
-I am a post-doc in the MICROCOSME team of [Inria](https://team.inria.fr/microcosme/) Grenoble.
+I am a post-doc in the [MICROCOSME](https://team.inria.fr/microcosme/) team of Inria Grenoble.
 
 ## Research interests
 
