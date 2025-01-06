@@ -24,5 +24,5 @@ I participate in the development of several methods and tools to reconstruct and
 
 Singularity recipe for: [mpwt with Pathway Tools](https://github.com/AuReMe/mpwt-singularity), [CarveMe recipe](https://github.com/ArnaudBelcour/carveme_singularity) (fork of [cfrioux/carveme_singularity](https://github.com/cfrioux/carveme_singularity)), [UBCG recipe](https://github.com/ArnaudBelcour/singularity_ubcg) and [Circos singularity](https://github.com/ArnaudBelcour/circos-singularity).
 
-I try to answer the issues but my time available for this varies and I can be slow to respond.
+I try to answer the issues but my time available for this varies and I can be slow to answer.
 
