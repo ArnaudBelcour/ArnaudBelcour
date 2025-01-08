@@ -15,6 +15,7 @@ I participate in the development of several methods and tools to reconstruct and
 - [esmecata](https://github.com/AuReMe/esmecata): a method to estimate functions of taxonomic affiliations using comparative genomics of proteomes from UniProt database.
 - [pathmodel](https://github.com/pathmodel/pathmodel): a prototype implementing the Metabolic Pathway Drift to predict alternative metabolic pathways.
 - [aucome](https://github.com/AuReMe/aucome): a method to homogenise the reconstruction of metabolic networks from genomes of public databases.
+- [tabigecy](https://github.com/ArnaudBelcour/tabigecy): a Nextflow workflow combining esmecata and [bigecyhmm](https://github.com/ArnaudBelcour/bigecyhmm) to predict impact on biogeochemical cycles from taxonomic affiliations.
 
 ## Conversion of file format
 
