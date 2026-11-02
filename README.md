@@ -1,5 +1,7 @@
 Hello!
 
+I am a postdoctoral fellow in the [TIMC laboratory](https://www.timc.fr/) (Université Grenoble Alpes), specifically in the [CompBio@TrEE group](https://tree-timc.github.io/compbio/).
+
 ## Research interests
 
 My work focuses on modelling the metabolism at different levels (specific metabolic pathways, single organism or environmental communities). My reseach combines knowledge representation and reasoning, DNA sequence analyses and systems biology. The methods I have participated in can be found in this GitHub account or in the [AuReMe repository](https://github.com/AuReMe) (owned by the Dyliss team of Inria).
